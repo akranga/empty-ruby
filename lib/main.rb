@@ -10,6 +10,6 @@ class Main
   end
 
   def say
-    "Hello #{phrase}!"
+    "Hello #{@phrase}!"
   end
 end
